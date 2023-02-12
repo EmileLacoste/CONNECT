@@ -16,7 +16,7 @@ In the project directory, you can run:
 
 #### `npm install`
 
-This installs all the dependencies you need in order to run the app.
+This installs all the dependencies you need in order to run the app. fuck you
 
 #### `npm start`
 
